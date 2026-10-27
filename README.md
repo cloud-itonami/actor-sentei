@@ -1,6 +1,6 @@
 # 剪定 sentei — Council as Pruner
 
-Canonical repository: `etzhayyim/actor-sentei`.
+Canonical repository: `cloud-itonami/actor-sentei`.
 
 The Council's **post-hoc pruning** organ (ADR-2606072000). etzhayyim's organism grows from its root
 unstoppably; branches manifest on the append-only Datom log; **sentei prunes** the overgrown /
